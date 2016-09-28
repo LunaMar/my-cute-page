@@ -2,7 +2,7 @@
 
 ##### Este proyecto tiene  una descripcion en__markdonw__
 
-#### Este "proyecto" hace :
+#### Este "proyecto" hace:
 
 *Clonalos proyectos  de los estudiantes
 *Abre las gh-pages automaticamente
